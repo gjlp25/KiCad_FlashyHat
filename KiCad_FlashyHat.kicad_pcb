@@ -2367,6 +2367,9 @@
   (gr_line (start 139.173123 89.831286) (end 138.783442 89.860943) (layer "Edge.Cuts") (width 0.2) (tstamp fb56868c-b19c-4212-a841-9013b46ee67d))
   (gr_curve (pts (xy 132.050433 94.136155) (xy 131.77647 94.096758) (xy 131.544606 94.072242) (xy 131.535179 94.081666)) (layer "Edge.Cuts") (width 0.2) (tstamp ff2c165b-fcf1-4e49-a130-75315ee7c31f))
   (gr_curve (pts (xy 125.920488 87.9397) (xy 126.113692 87.182998) (xy 126.504982 86.248043) (xy 126.871372 85.667643)) (layer "Edge.Cuts") (width 0.2) (tstamp ffb7f592-c2f7-48ee-8e65-c3d73c901745))
+  (gr_text "JLCJLCJLCJLC" (at 145.46 81.7 26) (layer "B.SilkS") (tstamp d9afab37-6d16-489e-a6df-20a54d2ee9f9)
+    (effects (font (size 0.9 0.9) (thickness 0.225)) (justify mirror))
+  )
 
   (segment (start 165.33 91.43) (end 165.33 94) (width 0.25) (layer "B.Cu") (net 1) (tstamp 096ced1c-8fa8-4392-85a8-5a5a64f380b3))
   (segment (start 143.340099 98.734501) (end 143.764501 98.310099) (width 0.25) (layer "B.Cu") (net 1) (tstamp 110941d4-bfe4-488c-865f-0a58fccd0529))
